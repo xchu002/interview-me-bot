@@ -16,6 +16,7 @@ classes = pickle.load(open('classes.pkl', 'rb'))
 model = load_model('chatbot_model.h5')
 nltk.download('punkt')
 nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 ignore_letters = ['?', '!', '.', ',']
 
