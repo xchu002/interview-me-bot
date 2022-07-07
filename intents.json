@@ -7,8 +7,8 @@
         },
         {
             "tag":"skills",
-            "patterns":["what skills do you have", "Do you have any skills", "skill"],
-            "responses":["Years of training as a chemist has equipped me with strong analytical skills. I am proficient in various lab techniques including NMR and IR. I have done a summer internship with Professor Patrick Martin in 2021, and have learnt a lot about troubleshooting problems from that. I am also proficient in Python and Javascript. From my coding skills I have also built a website for the NTU Aquatic Biochronology Lab."]
+            "patterns":["what skills do you have", "Do you have any skills", "skill", "what can you provide for our company", "what services do you provide", "what do you know"],
+            "responses":["Years of training as a chemist has equipped me with strong analytical skills. I am proficient in various lab techniques including NMR and IR. I have done a summer internship with Professor Patrick Martin in his marine chemistry lab in 2021 involving the electrocatalysis of nitrates in seawater into nitrites. We used UV-vis techniques to determine the concentration of nitrite in the seawater. I have learnt a lot about troubleshooting issues in the lab from that. I am also proficient in Python and Javascript. From my coding skills I have also built a website for the NTU Aquatic Biochronology Lab. Also, you can have a look at my personal projects from my portfolio site at https://xchu002.github.io/portfolio/"]
         },
         {
             "tag":"strength",
@@ -57,7 +57,7 @@
         },
         {
             "tag":"experience",
-            "patterns":["What are your experiences", "Do you have work experience", "Do you have work experience", "what work have you done", "jobs"],
+            "patterns":["What are your experiences", "Do you have work experience", "Do you have work experience", "what work have you done", "jobs", "what did you in the past"],
             "responses":["I have worked a summer internship at Professor Patrick Martin's lab at the Asian School of the Environment. My project involves the electrocatalysis of nitrates in seawater into nitrites for quantitative analysis of nitrate content using copper electrodes. We used UV-vis techniques to determine the concentration of nitrite. Besides that, after discovering my liking for coding, I self-learnt the python Django framework and built a website for the NTU Aquatic Biochronology Lab during my summer break in my third year."]
 
         },
