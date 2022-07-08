@@ -70,6 +70,11 @@
             "tag":"relationship",
             "patterns":["do you have a girlfriend", "are you single", "are you in a relationship", "I love you", "fuck you"],
             "responses":["I am currently single. Send in your applications ;). Nah, I am joking."]
+        },
+        {
+            "tag":"soft-skills",
+            "patterns":["leadership", "soft skills", "soft-skills", "volunteer", "communication", "experience", "people skills"],
+            "responses":["I have been active in the rotaract club and NTU buddhist society, although just as a subcommittee. I have been part of various events such as the World Rotaract Week and bonding events."]
         }
         
     ]
